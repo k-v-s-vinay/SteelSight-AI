@@ -162,9 +162,9 @@ SteelSight-AI/
 
 ## 🌐 Deployment
 
-🔗 **Live Demo:** Click Here <https://steelsight-ai-1.streamlit.app/>
+🔗 **Live Demo:** [Click Here](https://steelsight-ai-1.streamlit.app/)
 
-🔗 **GitHub Repository:** Link <https://github.com/k-v-s-vinay/SteelSight-AI/>
+🔗 **GitHub Repository:** [Link](https://github.com/k-v-s-vinay/SteelSight-AI/)
 
 ---
 
