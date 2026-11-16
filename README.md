@@ -97,7 +97,7 @@ The project uses YOLO26, a modern object detection model, to identify and locate
 ### 1. Clone the Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/k-v-s-vinay/SteelSight-AI.git
 cd SteelSight-AI
 ```
 
